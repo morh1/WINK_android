@@ -1,7 +1,3 @@
-[![My Skills](https://skills.thijs.gg/icons?i=java,firebase,react,js,androidstudio,mongodb,nodejs,git)](https://skills.thijs.gg)
-
-
-
 
 # WINK Chat Application
 
